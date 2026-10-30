@@ -1,4 +1,4 @@
-# kintep
+# Kintep (Jiangsu Kintep Environmental Protection Co., Ltd.)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,70 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-kintep is a company surfaced as a portfolio company of qiming and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Jiangsu Kintep Environmental Protection Co., Ltd. (江苏康泰环保股份有限公司), founded in 2011 and headquartered in Taizhou, Jiangsu, China, is a national high-tech enterprise that designs, manufactures, sells, and services new-type environmental-protection equipment and complete turnkey solutions. Kintep focuses on solid-liquid separation and intelligent sludge / pollutant collection and treatment. Its KINTEP product line includes multi-disc (stacked-screw) sludge dewatering machines, integrated automatic chemical dosing units, dense-phase belt sludge deep-dewatering machines, high-efficiency fully-automatic filter-press systems, Lamella sedimentation tanks, and screw presses. The company operates seven national customer-service centers (Shenzhen, Wuhan, Chongqing, Xi'an, Tianjin, Shanghai, Yixing) and exports to customers worldwide. Kintep is a physical industrial-equipment manufacturer and does not publish a public web API, developer portal, or developer documentation.
 
-Backed by: qiming — https://kintep.com
+**Areas:** Company · Environmental Equipment · Sludge Dewatering · Water Treatment · Wastewater Treatment · Solid-Liquid Separation · Industrial Equipment · Manufacturing · Cleantech · China
+
+## Kintep (Jiangsu Kintep Environmental Protection Co., Ltd.) on APIs.io
+
+Everything profiled for Kintep (Jiangsu Kintep Environmental Protection Co., Ltd.) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kintep/](https://apis.io/providers/kintep/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kintep.com)
+- [Support](http://www.kintep.com/product-service/)
+
+## API Evangelist rating
+
+**Kin Score 3.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kintep/](https://apis.io/providers/kintep/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kintep (Jiangsu Kintep Environmental Protection Co., Ltd.): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kintep/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
